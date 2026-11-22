@@ -1,0 +1,93 @@
+📊 UNDERSTANDING SUPPLY AND DEMAND
+
+🌱 Introduction
+
+Why do vegetable prices sometimes increase during heavy rainfall? Why do popular mobile phones sell quickly? Why might a shop reduce the price of products that remain unsold?
+
+These situations can be explained through two important economic concepts: supply and demand.
+
+Supply and demand describe the relationship between the quantity of a product available in the market and the quantity customers are willing to purchase.
+
+🛍️ What Is Demand?
+
+Demand refers to the quantity of a product or service that consumers are willing and able to purchase at different prices during a particular period.
+
+Generally, when the price of a product decreases, more people may be willing to buy it. When the price increases, some customers may reduce their purchases.
+
+For example, imagine a notebook costs ₹100. Many students may be willing to purchase it. If the price increases to ₹200, some students might choose a cheaper alternative.
+
+This relationship is known as the law of demand, assuming other factors remain unchanged.
+
+Demand is influenced by several factors, including income, customer preferences, population, product quality, and the prices of related products.
+
+🏭 What Is Supply?
+
+Supply refers to the quantity of a product or service that producers are willing and able to sell at different prices during a particular period.
+
+Generally, producers may be willing to supply more products when prices increase because higher prices can make production more profitable.
+
+For example, if the market price of mangoes rises, farmers and sellers may have a greater incentive to bring more mangoes to the market.
+
+This relationship is known as the law of supply, assuming other factors remain unchanged.
+
+Supply can be affected by production costs, technology, weather conditions, taxes, availability of raw materials, and the number of producers.
+
+⚖️ Understanding Market Equilibrium
+
+Market equilibrium occurs when the quantity demanded by consumers equals the quantity supplied by producers at a particular price.
+
+At this point, the market has no overall shortage or surplus under the assumed conditions.
+
+Imagine that customers want to purchase 100 bottles of juice at ₹20 each, and sellers are willing to supply exactly 100 bottles at that price.
+
+The quantity demanded and quantity supplied are equal. Therefore, ₹20 is the equilibrium price in this simplified example.
+
+📈 What Happens When Demand Increases?
+
+Suppose a new movie makes a particular snack extremely popular. More people begin purchasing it.
+
+If supply does not increase immediately, demand may become greater than supply.
+
+This creates a shortage, and sellers may increase prices.
+
+A similar situation can happen when a product becomes popular during festivals or when a new electronic device is released.
+
+📉 What Happens When Supply Increases?
+
+Imagine that a fruit harvest is particularly successful. More fruits become available in the market.
+
+If customer demand remains unchanged, the increased supply may put downward pressure on prices.
+
+A surplus can occur when sellers offer more products than customers are willing to purchase at the current price.
+
+Businesses may respond by reducing prices, offering discounts, or changing production levels.
+
+🌦️ A Real-World Example of Vegetable Prices
+
+Consider tomato prices.
+
+During a period of good weather, farmers may produce a large quantity of tomatoes. The market receives more supply, which can help keep prices lower.
+
+However, heavy rainfall or transportation problems may reduce the quantity reaching markets.
+
+If customer demand remains similar while supply falls, prices may increase.
+
+This example shows how natural events and transportation conditions can influence everyday prices.
+
+💻 Supply and Demand in the Digital World
+
+Supply and demand also operate in technology markets.
+
+When a new smartphone becomes highly popular but production is limited, demand may exceed available supply.
+
+Streaming platforms, online courses, cloud services, and software subscriptions also respond to customer demand.
+
+Businesses study market trends to estimate how many products customers may purchase and how much they should produce.
+
+✨ Final Thought
+
+Supply and demand are not just textbook concepts. They help explain why prices change, why products become popular, and how businesses decide what to produce.
+
+🔑 KEY TAKEAWAY
+
+Supply represents what producers offer, while demand represents what consumers want and can purchase. Their interaction influences market prices and the availability of goods and services.
