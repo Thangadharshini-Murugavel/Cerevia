@@ -24,6 +24,7 @@ Explore 10 learning categories:
 - Arts & Literature
 
 Each category provides:
+
 - 5 built-in reading articles
 - 5 external learning resources
 
@@ -75,6 +76,7 @@ Track training performance through:
 CEREVIA/
 │
 ├── src/
+│   ├── module-info.java
 │   ├── main/
 │   ├── content/
 │   ├── focus/
